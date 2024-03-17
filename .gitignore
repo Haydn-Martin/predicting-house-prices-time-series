@@ -1,5 +1,8 @@
 # IDE Settings
-.idea/
+.idea
 
 # venv
-.venv/
+.venv
+
+# Notebook Checkpoints
+.ipynb_checkpoints
